@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik&letterSpacing=3px&pause=1000&color=7918F7&background=8902FF0B&width=435&lines=Ol%C3%A1%2C+Eu+sou+o+Eduardo+Miguel+%F0%9F%91%8B%F0%9F%8F%BC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik&letterSpacing=3px&pause=1000&color=762CF7&width=435&lines=Ol%C3%A1%2C+Eu+sou+o+Eduardo+Miguel%F0%9F%98%84)](https://git.io/typing-svg)
 
 🎓 **Análise e Desenvolvimento de Sistemas** - FIAP
 
