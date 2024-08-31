@@ -1,19 +1,15 @@
-### Olá eu sou o Eduardo Miguel👋
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/eduardo-miguel-forato-monteiro-10b9822b7)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Eduardo+Miguel!+👋🏼;!&size=35&color=#993399&height=50&width=500)](https://git.io/typing-svg)
+🎓 **Análise e Desenvolvimento de Sistemas** - FIAP
+💼 **Estou à procura de um estágio ** para ampliar meus conhecimentos e crescer profissionalmente.
+<a href="https://www.linkedin.com/in/eduardo-miguel-forato-monteiro-10b9822b7" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>‎ ‎ ‎]()
 
 
 ![Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoMiguelFM&show_icons=true&theme=dracula)
 
-## Tecnologias que eu uso no meu dia
+## Linguagens que uso no meu dia dia 💻
+<img align="center" src="https://skillicons.dev/icons?i=py,java,js,html,css" />
 
-<div style="display :inline_block"><br/>
-    <img align="center" alt="Python"  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    <img align="center" alt="Java"  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-    <img align="center" alt="Html5"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img align="center" alt="Css"  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img align="center" alt="JS"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    
-<div/><br/>
+## Ferramentas 🛠️
+<img src="https://skillicons.dev/icons?i=idea,vscode,react,vite,notion" />
 
-Sou estudante de Análise e Desenvolvimento de Sistemas na FIAP, apaixonado por tecnologia e sempre em busca de evolução. Estou à procura de um estágio para ampliar meus conhecimentos e crescer profissionalmente.
+
