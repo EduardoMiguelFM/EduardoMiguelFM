@@ -2,8 +2,6 @@
 
 🎓 **Análise e Desenvolvimento de Sistemas** - FIAP
 
-💼 Estou à procura de um estágio  para ampliar meus conhecimentos e crescer profissionalmente.
-
 ![Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoMiguelFM&show_icons=true&theme=tokyonight)
 
 ## Linguagens que uso no meu dia dia 💻
